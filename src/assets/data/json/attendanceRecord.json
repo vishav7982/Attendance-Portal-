@@ -1,0 +1,298 @@
+{
+  "data": [
+  {
+  "TechnicianId": 1,
+  "TechnicianName": "BLUE CHARLIE",
+  "PhotoPath": "assets/images/Blue_charlie.png",
+  "MapPath": "assets/images/TechnicianMap/BLUE-CHARLIE.png",
+  "Experience": 12,
+  "Capability": ["He will take OT most of the time when asked.", "He is very helpful if the other techs have questions."],
+  "CoversArea": [8,9,11,12],
+  "LivesArea": 9,
+  "Ratings": {
+    "FA": [1,1,1,1,1],
+    "MT": [1,1,0,0,0],
+    "IT": [1,1,1,0,0],
+    "NC": [0,0,0,0,0],
+    "CCTV": [1,1,1,0,0],
+    "AC": [1,1,1,0,0],
+    "other": "No Programming. No Program for monitoring yet"
+  },
+  "AdditionalCoverArea": [],
+  "status": 1
+},
+  {
+  "TechnicianId": 2,
+  "TechnicianName": "BRODY MARTIN",
+  "PhotoPath": "assets/images/technician_02.png",
+  "MapPath": "assets/images/TechnicianMap/BRODY-MARTIN.png",
+  "Experience": 5,
+  "Capability": ["Will try anything even if he doesn’t know it", "Smart guy and very pleasant", "Will help you by taking extra jobs (likes the OT)", "Will sometimes take weekend or off hours work"],
+  "CoversArea": [5, 6],
+  "LivesArea": 6,
+  "Ratings": {
+    "FA": [1,1,1,0,0],
+    "MT": [0,0,0,0,0],
+    "IT": [0,0,0,0,0],
+    "NC": [1,1,1,0,0],
+    "CCTV": [0,0,0,0,0],
+    "AC": [0,0,0,0,0],
+    "other": "No Programming. No Program for monitoring yet"
+  },
+  "AdditionalCoverArea": [],
+  "status": 1
+},
+{
+  "TechnicianId": 3,
+  "TechnicianName": "CARVER TAYLOR",
+  "PhotoPath": "assets/images/technician_03.png",
+  "MapPath": "assets/images/TechnicianMap/CARVER-TAYLOR.png",
+  "Experience": 8,
+  "Capability": ["Happy guy and willing to help customers and new techs", "Will not work past 5PM on Friday"],
+  "CoversArea": [5, 6],
+  "LivesArea": 3,
+  "Ratings": {
+    "FA": [1,1,1,0,0],
+    "MT": [0,0,0,0,0],
+    "IT": [1,1,1,0,0],
+    "NC": [0,0,0,0,0],
+    "CCTV": [1,1,1,0,0],
+    "AC": [1,1,1,0,0],
+    "other": "No Programming. No Program for monitoring yet"
+  },
+  "AdditionalCoverArea": [6],
+  "status": 1
+},
+{
+  "TechnicianId": 4,
+  "TechnicianName": "CHUCKS JOSE",
+  "PhotoPath": "assets/images/Chucks_Jose.png",
+  "MapPath": "assets/images/TechnicianMap/CHUCKS-JOSE.png",
+  "Experience": 1,
+  "Capability": ["Can be a ‘know it all’; he actually does know it all, but he’s pretty arrogant about it.", "If you send him to a ‘recurring issue’ and it wasn’t his original SR, he’ll complain about the tech that was out there the first time saying he should’ve known how to fix the issue.  He will work some OT."],
+  "CoversArea": [7,8,9,10,11,12],
+  "LivesArea": 10,
+  "Ratings": {
+    "FA": [1,1,1,0,0],
+    "MT": [0,0,0,0,0],
+    "IT": [1,1,0,0,0],
+    "NC": [0,0,0,0,0],
+    "CCTV": [1,1,0,0,0],
+    "AC": [1,1,0,0,0],
+    "other": "No Programming. No Program for monitoring yet"
+  },
+  "AdditionalCoverArea": [],
+  "status": 1
+},
+{
+  "TechnicianId": 5,
+  "TechnicianName": "HEWSON PAUL",
+  "PhotoPath": "assets/images/technician_04.png",
+  "MapPath": "assets/images/TechnicianMap/HEWSON-PAUL.png",
+  "Experience": 8,
+  "Capability": ["Can program most panels", "Will start as early as 5AM but doesn’t like to work past 6PM", "Interested in learning Nurse Call and would like to ride along on any calls that he can"],
+  "CoversArea": [1, 2, 5, 6],
+  "LivesArea": 3,
+  "Ratings": {
+    "FA": [1,1,1,1,1],
+    "MT": [0,0,0,0,0],
+    "IT": [1,1,1,1,1],
+    "NC": [1,1,0,0,0],
+    "CCTV": [0,0,0,0,0],
+    "AC": [1,1,1,1,1],
+    "other": "No Programming. No Program for monitoring yet"
+  },
+  "AdditionalCoverArea": [],
+  "status": 1
+},
+{
+  "TechnicianId": 6,
+  "TechnicianName": "JAMISON CARL",
+  "PhotoPath": "assets/images/technician_05.png",
+  "MapPath": "assets/images/TechnicianMap/JAMISON-CARL.png",
+  "Experience": 1,
+  "Capability": ["Brand new tech", "Will not work past 5PM on Friday", "Quiet and doesn’t like small talk; likes to get to the point and work"],
+  "CoversArea": [3, 5, 6],
+  "LivesArea": 2,
+  "Ratings": {
+    "FA": [1,1,1,0,0],
+    "MT": [0,0,0,0,0],
+    "IT":[0,0,0,0,0],
+    "NC": [0,0,0,0,0],
+    "CCTV": [0,0,0,0,0],
+    "AC": [0,0,0,0,0],
+    "other": "No Programming. No Program for monitoring yet"
+  },
+  "AdditionalCoverArea": [],
+  "status": 1
+},
+{
+  "TechnicianId": 7,
+  "TechnicianName": "MARTIN JOHN",
+  "PhotoPath": "assets/images/technician_06.png",
+  "MapPath": "assets/images/TechnicianMap/MARTIN-JOHN.png",
+  "Experience": 7,
+  "Capability": ["Very helpful and experienced", "Usually picks up any OT calls", "Takes 4 weeks off a year to vacation"],
+  "CoversArea": [4, 5],
+  "LivesArea": 5,
+  "Ratings": {
+    "FA": [1,1,1,1,1],
+    "MT": [0,0,0,0,0],
+    "IT": [0,0,0,0,0],
+    "NC": [1,1,1,1,1],
+    "CCTV": [0,0,0,0,0],
+    "AC": [1,1,1,1,1],
+    "other": "No Programming. No Program for monitoring yet"
+  },
+  "AdditionalCoverArea": [],
+  "status": 1
+},
+{
+  "TechnicianId": 8,
+  "TechnicianName": "MORRIS NORRIS",
+  "PhotoPath": "assets/images/Morris_Norris.png",
+  "MapPath": "assets/images/TechnicianMap/MORRIS-NORRIS.png",
+  "Experience": 28,
+  "Capability": ["He does mostly quoted work, deficiencies, but can be scheduled for service calls.","Cannot program and no network jobs either.", "Norris is getting close to retirement and prefers not to work OT."],
+  "CoversArea": [7,8,9,10,11,12],
+  "LivesArea": 8,
+  "Ratings": {
+    "FA": [1,1,1,1,1],
+    "MT": [1,1,1,0,0],
+    "IT": [1,1,1,1,0],
+    "NC": [1,1,1,1,0],
+    "CCTV": [1,1,1,1,0],
+    "AC": [1,1,1,1,0],
+    "other": "No Programming. No Program for monitoring yet"
+  },
+  "AdditionalCoverArea": [],
+  "status": 1
+},{
+  "TechnicianId": 9,
+  "TechnicianName": "PIPER CHRIS",
+  "PhotoPath": "assets/images/Piper_Chris.png",
+  "MapPath": "assets/images/TechnicianMap/PIPER-CHRIS.png",
+  "Experience": 3,
+  "Capability": ["If something sounds too complicated or is a multi-vendor panel check with Carl first before sending him.", "He can program Simplex panels."],
+  "CoversArea": [7,8,10,11,12],
+  "LivesArea": 10,
+  "Ratings": {
+    "FA": [1,1,1,0,0],
+    "MT": [0,0,0,0,0],
+    "IT": [0,0,0,0,0],
+    "NC": [0,0,0,0,0],
+    "CCTV": [0,0,0,0,0],
+    "AC": [0,0,0,0,0],
+    "other": "No Programming. No Program for monitoring yet"
+  },
+  "AdditionalCoverArea": [],
+  "status": 1
+},
+{
+  "TechnicianId": 10,
+  "TechnicianName": "RYAN JACQUES",
+  "PhotoPath": "assets/images/Rayan_Jacues.png",
+  "MapPath": "assets/images/TechnicianMap/RYAN-JACQUES.png",
+  "Experience": 6,
+  "Capability": ["Will grab all the OT he can Monday - Thursday. Prefers to finish up mid afternoon on Fridays.", "He can program almost any panel.  His customers love him and often will request him."],
+  "CoversArea": [10,11,12],
+  "LivesArea": 12,
+  "Ratings": {
+    "FA": [1,1,0,0,0],
+    "MT": [0,0,0,0,0],
+    "IT": [1,1,1,1,1],
+    "NC": [1,1,0,0,0],
+    "CCTV": [1,1,1,1,1],
+    "AC": [1,1,1,1,1],
+    "other": "No Programming. No Program for monitoring yet"
+  },
+  "AdditionalCoverArea": [],
+  "status": 1
+},
+{
+  "TechnicianId": 11,
+  "TechnicianName": "STEVENS STANLEY",
+  "PhotoPath": "assets/images/technician_07.png",
+  "MapPath": "assets/images/TechnicianMap/STEVENS-STANLEY.png",
+  "Experience": 7,
+  "Capability": ["Can program regular and network panels", "Very helpful guy", "Super nice, will talk about non-work-related stuff so get to the point if you are going to ask him to take extra work before talking about the personal stuff"],
+  "CoversArea": [1, 6],
+  "LivesArea": 4,
+  "Ratings": {
+    "FA": [1,1,1,1,0],
+    "MT": [1,1,1,0,0],
+    "IT": [1,1,1,1,0],
+    "NC": [1,1,1,1,0],
+    "CCTV": [1,1,1,0,0],
+    "AC": [1,1,1,0,0],
+    "other": "No Programming. No Program for monitoring yet"
+  },
+  "AdditionalCoverArea": [],
+  "status": 1
+},
+{
+  "TechnicianId": 12,
+  "TechnicianName": "WHITE WALTER",
+  "PhotoPath": "assets/images/White_walter.png",
+  "MapPath": "assets/images/TechnicianMap/WHITE-WALTER.png",
+  "Experience": 21,
+  "Capability": ["Will not work weekends", "1st choice for any non Simplex panel programming calls.", "Likes to teach the newer techs.", "He is the preferred tech for William & Mary College."],
+  "CoversArea": [7,8,9,10,11,12],
+  "LivesArea": 11,
+  "Ratings": {
+    "FA": [1,1,1,1,1],
+    "MT": [1,1,1,1,1],
+    "IT": [1,1,1,1,1],
+    "NC": [1,1,1,1,1],
+    "CCTV": [1,1,1,1,1],
+    "AC": [0,0,0,0,0],
+    "other": "No Programming. No Program for monitoring yet"
+  },
+  "AdditionalCoverArea": [],
+  "status": 1
+},
+{
+  "TechnicianId": 13,
+  "TechnicianName": "WICK JOHN",
+  "PhotoPath": "assets/images/technician_08.png",
+  "MapPath": "assets/images/TechnicianMap/WICK-JOHN.png",
+  "Experience": 7.5,
+  "Capability": ["Very experienced tech and can work on all products", "John is everybody’s friend! He’s a nice guy that will help anyone", "Don’t be surprised if you get a call and he asks you to set up SRs for customers directly. They will call him directly sometimes and he doesn’t like to tell them to call the SRC"],
+  "CoversArea": [1, 2, 3, 4, 5, 6],
+  "LivesArea": 3,
+  "Ratings": {
+    "FA": [1,1,1,1,1],
+    "MT": [0,0,0,0,0],
+    "IT": [0,0,0,0,0],
+    "NC": [1,1,1,1,1],
+    "CCTV": [0,0,0,0,0],
+    "CC": [1,1,1,1,1],
+    "AC": [1,1,1,1,1],
+    "other": "No Programming. No Program for monitoring yet"
+  },
+  "AdditionalCoverArea": [],
+  "status": 1
+},
+{
+  "TechnicianId": 14,
+  "TechnicianName": "ZDENO GREGG",
+  "PhotoPath": "assets/images/technician_09.png",
+  "MapPath": "assets/images/TechnicianMap/ZDENO-GREGG.png",
+  "Experience": 4,
+  "Capability": ["If you catch him in a good mood, he’ll talk quite a bit. If he’s super busy, he just wants to talk about business"],
+  "CoversArea": [4, 5],
+  "LivesArea": 5,
+  "Ratings": {
+    "FA": [1,1,1,1,1],
+    "MT": [0,0,0,0,0],
+    "IT": [0,0,0,0,0],
+    "NC": [1,1,1,1,0],
+    "CCTV": [0,0,0,0,0],
+    "AC": [0,0,0,0,0],
+    "other": "No Programming. No Program for monitoring yet"
+  },
+  "AdditionalCoverArea": [],
+  "status": 1
+}
+]
+}

@@ -1,0 +1,54 @@
+{
+"Students":[
+ {
+  "ID": 1,
+  "Name ": "Joshant Jadhav",
+  "Address": "Pune",
+  "Department": "L&D",
+  "Joining Date": "15-Nov-21",
+  "Contact No": 1234567890,
+  "Email ID": "Joshant.Jadhav@test.com",
+  "Designation": "Developer"
+ },
+ {
+  "ID": 2,
+  "Name ": "Vishav Singh",
+  "Address": "Jammu",
+  "Department": "Google10",
+  "Joining Date": "10-Jun-19",
+  "Contact No": 1234567890,
+  "Email ID": "vishavsingh@test.com",
+  "Designation": "Developer"
+ },
+ {
+  "ID": 3,
+  "Name ": "Sumit Das",
+  "Address": "Zhaja",
+  "Department": "Unit15",
+  "Joining Date": "19-Aug-15",
+  "Contact No": 1234567890,
+  "Email ID": "sumitdas@test.com",
+  "Designation": "Devloper"
+ },
+ {
+  "ID": 4,
+  "Name ": "Jitendra Nikumbh",
+  "Address": "Jalgaon",
+  "Department": "J104",
+  "Joining Date": "02-Feb-19",
+  "Contact No": 1234567890,
+  "Email ID": "jitendranikumbh@test.com",
+  "Designation": "Sr Devlpoer"
+ },
+ {
+  "ID": 5,
+  "Name ": "Parmod kadam",
+  "Address": "Satara",
+  "Department": "J105",
+  "Joining Date": "30-Jan-20",
+  "Contact No": 1234567890,
+  "Email ID": "pramodkadam@test.com",
+  "Designation": "Test Engg"
+ }
+],
+}

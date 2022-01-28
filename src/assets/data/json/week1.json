@@ -1,0 +1,231 @@
+{
+"Sheet1":[
+ {
+  "Week Id": 1,
+  "Day ID": 1,
+  "Student ID": 1,
+  "Present\/Leave": "Present",
+  "Check In": "9:00",
+  "Check Out": "6:00",
+  "Shift": "Day"
+ },
+ {
+  "Week Id": 1,
+  "Day ID": 1,
+  "Student ID": 2,
+  "Present\/Leave": "Present",
+  "Check In": "9:10",
+  "Check Out": "6:00",
+  "Shift": "Day"
+ },
+ {
+  "Week Id": 1,
+  "Day ID": 1,
+  "Student ID": 3,
+  "Present\/Leave": "Present",
+  "Check In": "9:05",
+  "Check Out": "6:30",
+  "Shift": "Day"
+ },
+ {
+  "Week Id": 1,
+  "Day ID": 1,
+  "Student ID": 4,
+  "Present\/Leave": "Leave",
+  "Check In": "0:00",
+  "Check Out": "0:00",
+  "Shift": "Day"
+ },
+ {
+  "Week Id": 1,
+  "Day ID": 1,
+  "Student ID": 5,
+  "Present\/Leave": "Present",
+  "Check In": "9:29",
+  "Check Out": "6:30",
+  "Shift": "Day"
+ },
+ {
+  "Week Id": 1,
+  "Day ID": 2,
+  "Student ID": 1,
+  "Present\/Leave": "Present",
+  "Check In": "9:00",
+  "Check Out": "6:00",
+  "Shift": "Day"
+ },
+ {
+  "Week Id": 1,
+  "Day ID": 2,
+  "Student ID": 2,
+  "Present\/Leave": "Present",
+  "Check In": "9:10",
+  "Check Out": "6:00",
+  "Shift": "Day"
+ },
+ {
+  "Week Id": 1,
+  "Day ID": 2,
+  "Student ID": 3,
+  "Present\/Leave": "Present",
+  "Check In": "9:05",
+  "Check Out": "6:30",
+  "Shift": "Day"
+ },
+ {
+  "Week Id": 1,
+  "Day ID": 2,
+  "Student ID": 4,
+  "Present\/Leave": "Leave",
+  "Check In": "0:00",
+  "Check Out": "0:00",
+  "Shift": "Day"
+ },
+ {
+  "Week Id": 1,
+  "Day ID": 2,
+  "Student ID": 5,
+  "Present\/Leave": "Present",
+  "Check In": "9:29",
+  "Check Out": "6:30",
+  "Shift": "Day"
+ },
+ {
+  "Week Id": 1,
+  "Day ID": 3,
+  "Student ID": 1,
+  "Present\/Leave": "Present",
+  "Check In": "9:00",
+  "Check Out": "6:00",
+  "Shift": "Day"
+ },
+ {
+  "Week Id": 1,
+  "Day ID": 3,
+  "Student ID": 2,
+  "Present\/Leave": "Present",
+  "Check In": "9:10",
+  "Check Out": "6:00",
+  "Shift": "Day"
+ },
+ {
+  "Week Id": 1,
+  "Day ID": 3,
+  "Student ID": 3,
+  "Present\/Leave": "Present",
+  "Check In": "9:05",
+  "Check Out": "6:30",
+  "Shift": "Day"
+ },
+ {
+  "Week Id": 1,
+  "Day ID": 3,
+  "Student ID": 4,
+  "Present\/Leave": "Leave",
+  "Check In": "0:00",
+  "Check Out": "0:00",
+  "Shift": "Day"
+ },
+ {
+  "Week Id": 1,
+  "Day ID": 3,
+  "Student ID": 5,
+  "Present\/Leave": "Present",
+  "Check In": "9:29",
+  "Check Out": "6:30",
+  "Shift": "Day"
+ },
+ {
+  "Week Id": 1,
+  "Day ID": 4,
+  "Student ID": 1,
+  "Present\/Leave": "Present",
+  "Check In": "9:00",
+  "Check Out": "6:00",
+  "Shift": "Day"
+ },
+ {
+  "Week Id": 1,
+  "Day ID": 4,
+  "Student ID": 2,
+  "Present\/Leave": "Present",
+  "Check In": "9:10",
+  "Check Out": "6:00",
+  "Shift": "Day"
+ },
+ {
+  "Week Id": 1,
+  "Day ID": 4,
+  "Student ID": 3,
+  "Present\/Leave": "Present",
+  "Check In": "9:05",
+  "Check Out": "6:30",
+  "Shift": "Day"
+ },
+ {
+  "Week Id": 1,
+  "Day ID": 4,
+  "Student ID": 4,
+  "Present\/Leave": "Leave",
+  "Check In": "0:00",
+  "Check Out": "0:00",
+  "Shift": "Day"
+ },
+ {
+  "Week Id": 1,
+  "Day ID": 4,
+  "Student ID": 5,
+  "Present\/Leave": "Present",
+  "Check In": "9:29",
+  "Check Out": "6:30",
+  "Shift": "Day"
+ },
+ {
+  "Week Id": 1,
+  "Day ID": 5,
+  "Student ID": 1,
+  "Present\/Leave": "Present",
+  "Check In": "9:00",
+  "Check Out": "6:00",
+  "Shift": "Day"
+ },
+ {
+  "Week Id": 1,
+  "Day ID": 5,
+  "Student ID": 2,
+  "Present\/Leave": "Present",
+  "Check In": "9:10",
+  "Check Out": "6:00",
+  "Shift": "Day"
+ },
+ {
+  "Week Id": 1,
+  "Day ID": 5,
+  "Student ID": 3,
+  "Present\/Leave": "Present",
+  "Check In": "9:05",
+  "Check Out": "6:30",
+  "Shift": "Day"
+ },
+ {
+  "Week Id": 1,
+  "Day ID": 5,
+  "Student ID": 4,
+  "Present\/Leave": "Leave",
+  "Check In": "0:00",
+  "Check Out": "0:00",
+  "Shift": "Day"
+ },
+ {
+  "Week Id": 1,
+  "Day ID": 5,
+  "Student ID": 5,
+  "Present\/Leave": "Present",
+  "Check In": "9:29",
+  "Check Out": "6:30",
+  "Shift": "Day"
+ }
+],
+,
+
+}
