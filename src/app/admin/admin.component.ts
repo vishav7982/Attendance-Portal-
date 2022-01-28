@@ -1,6 +1,6 @@
 import { Component, OnInit } from '@angular/core';
 import { CommonService } from '../services/common.service';
-import pkg from '../../assets/data/json/attendanceRecord.json';
+import pkg from '../../assets/data/json/StudentList.json';
 import { ColDef } from 'ag-grid-community';
 import {Chart} from 'chart.js';
 
@@ -12,13 +12,16 @@ import {Chart} from 'chart.js';
 
 export class AdminComponent implements OnInit 
 {
+
+  //Ag-grid
   columnDefs: ColDef[] = [
-    { headerName : 'Employee ID ' , field: 'TechnicianId' , sortable:true },
-    {  headerName : 'Employee Name ' ,field: 'TechnicianName' ,sortable : true},
-    {  headerName : ' Years of Experience ' ,field: 'Experience' },
+    { headerName : 'Employee ID ' , field: 'ID' , sortable:true },
+    {  headerName : 'Employee Name ' ,field: 'Name'},
+    {  headerName : ' Leave Taken ' ,field: 'Leaves' ,sortable:true},
+    {headerName: ' Present Today' ,  field: 'IsPresent'}
     
 ];
-  data = pkg.data; 
+  data = pkg.Employees; 
   AttendanceData: Array<{ [key: string]: string | number | object }> = this.data;
   rowData = this.AttendanceData;
 

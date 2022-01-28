@@ -8,12 +8,13 @@ import { Router, ActivatedRoute } from '@angular/router';
 })
 export class AdminheaderComponent implements OnInit {
 
-  constructor() { }
+  constructor(private router: Router) { }
 
   ngOnInit(): void {
   }
   logout(){
     console.log("logout");
+    this.router.navigate(['login']);
   }
   home(){
     console.log("home");
