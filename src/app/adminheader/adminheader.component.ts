@@ -8,7 +8,7 @@ import { Router, ActivatedRoute } from '@angular/router';
 })
 export class AdminheaderComponent implements OnInit {
 
-  constructor(private router: Router) { }
+  constructor(private router: Router,private route:ActivatedRoute) { }
 
   ngOnInit(): void {
   }
@@ -18,18 +18,22 @@ export class AdminheaderComponent implements OnInit {
   }
   home(){
     console.log("home");
+    this.router.navigate(['admindashboard']);
   }
-  hol(){
-    console.log("holiday");
-     
-  }
-  atten(){
+    atten(){
     console.log("attendance");
+    this.router.navigate(['adminDeptAtt']);
     
   }
   emp(){
     console.log("emp");
+    this.router.navigate(['adminEmpAtt']);
 
+  }
+  hol(){
+    console.log("holiday");
+    this.router.navigate(['adminHoliday']);
+     
   }
 
 }
