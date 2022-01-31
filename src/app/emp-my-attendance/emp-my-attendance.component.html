@@ -1,2 +1,31 @@
 <app-empheader></app-empheader>
-<p>emp-my-attendance works!</p>
+
+<div id ="main">
+     
+    <div id = "employeeDashboard"> 
+        <h1 style="text-shadow: 2px 2px 5px red;
+        color:rgb(214, 194, 127);"> Employee Dashboard </h1>
+    </div>
+
+      <ag-grid-angular
+         
+         style = "width :50%;
+         height:400px;
+         float : left;"
+         class="ag-theme-alpine"
+        [rowData]="rowData"
+        [columnDefs]="columnDefs">
+      </ag-grid-angular> 
+      <div id = "chart">
+        The Attendance Chart for this week
+       <canvas 
+           baseChart  
+           [chartType]="'bar'"
+           [legend]="true"
+           [datasets]="chartData"
+           [labels]="chartLabels"
+           [options]="chartOptions"
+           >
+        </canvas>
+   </div>
+</div>

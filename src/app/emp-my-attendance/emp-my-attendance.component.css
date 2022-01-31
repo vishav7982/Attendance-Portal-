@@ -1,0 +1,30 @@
+
+#employeeDashboard{
+    width : 100%;
+    text-align: center;
+    height: 50px;
+    margin : 10px 5px 10px 5px;
+}
+
+#main{
+    border: 3px solid #fff;
+    padding: 20px;
+}
+
+#agGrid{
+    width :50%;
+    height:400px;
+    background: red;
+    float : left;
+}
+
+#chart{
+    width :50%;
+    height:400px;
+    padding-top: 20px;
+    padding-left: 30px;
+    float : left;
+}
+.grid-cell-centered {
+    text-align: center;
+  }
