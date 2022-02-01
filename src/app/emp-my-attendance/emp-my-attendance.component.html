@@ -2,22 +2,37 @@
 
 <div id ="main">
      
-    <div id = "employeeDashboard"> 
-        <h1 style="text-shadow: 2px 2px 5px red;
-        color:rgb(214, 194, 127);"> Employee Dashboard </h1>
+    <div > 
+        <div id = "employeeDashboard">
+          <h1 style="text-shadow: 2px 2px 5px red;
+          color:rgb(214, 194, 127);"> Employee Dashboard </h1>
+        </div>
+        
+        <div class="dropdown" style="float: right;">
+          <button class="btn btn-secondary  btn-info dropdown-toggle" type="button" id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+            Weekly Data
+          </button>
+          <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
+            <a class="dropdown-item" (click)="week1()">Week1</a>
+            <a class="dropdown-item"  (click)="week2()">Week2</a>
+            <a class="dropdown-item"  (click)="week3()">Week3</a>
+            <a class="dropdown-item"  (click)="week4()">Week4</a>
+          </div>
+        </div>
     </div>
 
       <ag-grid-angular
          
          style = "width :50%;
-         height:400px;
+         height:450px;
          float : left;"
          class="ag-theme-alpine"
         [rowData]="rowData"
         [columnDefs]="columnDefs">
       </ag-grid-angular> 
       <div id = "chart">
-        The Attendance Chart for this week
+        The Attendance Chart for  <b>{{week}}</b><br>
+        Empty Rows indicates Absent
        <canvas 
            baseChart  
            [chartType]="'bar'"

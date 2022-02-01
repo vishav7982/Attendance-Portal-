@@ -1,5 +1,5 @@
 {
-  "data": [
+  "week1": [
   {
    "Id": 1,
    "Name":"Vishav Singh",
@@ -77,5 +77,243 @@
   "working-hours":"Holiday"
  
 }
+],
+"week2" :
+[
+  {
+    "Id": 1,
+    "Name":"Vishav Singh",
+    "Designation":"Software Developer",
+    "Experience": "1 year",
+    "Day" :"Monday",
+    "In-time" : "10:00 am",
+    "Out-time":"6:30 pm",
+    "working-hours":"8.5 hours"
+   
+ },
+ {
+   "Id": 1,
+   "Name":"Vishav Singh",
+   "Designation":"Software Developer",
+   "Experience": "1 year",
+   "Day" :"Tuesday",
+   "In-time" : "----",
+   "Out-time":"----",
+   "working-hours":"Absent"
+  
+ },
+ {
+   "Id": 1,
+   "Name":"Vishav Singh",
+   "Designation":"Software Developer",
+   "Experience": "1 year",
+   "Day" :"Wednesday",
+   "In-time" : "8:15 am",
+   "Out-time":"6:15 pm",
+   "working-hours":"10 hours"
+  
+ },
+ {
+   "Id": 1,
+   "Name":"Vishav Singh",
+   "Designation":"Software Developer",
+   "Experience": "1 year",
+   "Day":"Thrusday",
+   "In-time" : "----",
+   "Out-time":"----",
+   "working-hours":"Absent"
+  
+ },
+ {
+   "Id": 1,
+   "Name":"Vishav Singh",
+   "Designation":"Software Developer",
+   "Experience": "1 year",
+   "Day" :"Friday",
+   "In-time" : "10:30 am",
+   "Out-time":"8:30 pm",
+   "working-hours":"10 hours"
+  
+ },
+ {
+   "Id": 1,
+   "Name":"Vishav Singh",
+   "Designation":"Software Developer",
+   "Experience": "1 year",
+   "Day" :"Saturday",
+   "In-time" : " ---",
+   "Out-time":" ---",
+   "working-hours":"Holiday"
+  
+ },
+ {
+   "Id": 1,
+   "Name":"Vishav Singh",
+   "Designation":"Software Developer",
+   "Experience": "1 year",
+   "Day" :"Sunday",
+   "In-time" : " ---",
+   "Out-time":" ---",
+   "working-hours":"Holiday"
+  
+ }
+],
+"week3":[
+  {
+    "Id": 1,
+    "Name":"Vishav Singh",
+    "Designation":"Software Developer",
+    "Experience": "1 year",
+    "Day" :"Monday",
+    "In-time" : "9:00 am",
+    "Out-time":"7:30 pm",
+    "working-hours":"10.5 hours"
+   
+ },
+ {
+   "Id": 1,
+   "Name":"Vishav Singh",
+   "Designation":"Software Developer",
+   "Experience": "1 year",
+   "Day" :"Tuesday",
+   "In-time" : "9:00 am",
+   "Out-time":"6:00 pm",
+   "working-hours":"9 hours"
+  
+ },
+ {
+   "Id": 1,
+   "Name":"Vishav Singh",
+   "Designation":"Software Developer",
+   "Experience": "1 year",
+   "Day" :"Wednesday",
+   "In-time" : "9:15 am",
+   "Out-time":"7:15 pm",
+   "working-hours":"10 hours"
+  
+ },
+ {
+   "Id": 1,
+   "Name":"Vishav Singh",
+   "Designation":"Software Developer",
+   "Experience": "1 year",
+   "Day" :"Thrusday",
+   "In-time" : "9:00 am",
+   "Out-time":"10:30 pm",
+   "working-hours":"13.5 hours"
+  
+ },
+ {
+   "Id": 1,
+   "Name":"Vishav Singh",
+   "Designation":"Software Developer",
+   "Experience": "1 year",
+   "Day":"Friday",
+   "In-time" : "----",
+   "Out-time":"----",
+   "working-hours":"Absent"
+  
+ },
+ {
+   "Id": 1,
+   "Name":"Vishav Singh",
+   "Designation":"Software Developer",
+   "Experience": "1 year",
+   "Day" :"Saturday",
+   "In-time" : " ---",
+   "Out-time":" ---",
+   "working-hours":"Holiday"
+  
+ },
+ {
+   "Id": 1,
+   "Name":"Vishav Singh",
+   "Designation":"Software Developer",
+   "Experience": "1 year",
+   "Day" :"Sunday",
+   "In-time" : " ---",
+   "Out-time":" ---",
+   "working-hours":"Holiday"
+  
+ }
+],
+"week4":[
+  {
+    "Id": 1,
+    "Name":"Vishav Singh",
+    "Designation":"Software Developer",
+    "Experience": "1 year",
+    "Day" :"Monday",
+    "In-time" : "9:00 am",
+    "Out-time":"6:30 pm",
+    "working-hours":"9.5 hours"
+   
+ },
+ {
+   "Id": 1,
+   "Name":"Vishav Singh",
+   "Designation":"Software Developer",
+   "Experience": "1 year",
+   "Day" :"Tuesday",
+   "In-time" : "10:00 am",
+   "Out-time":"6:00 pm",
+   "working-hours":"8 hours"
+  
+ },
+ {
+   "Id": 1,
+   "Name":"Vishav Singh",
+   "Designation":"Software Developer",
+   "Experience": "1 year",
+   "Day" :"Wednesday",
+   "In-time" : "10:15 am",
+   "Out-time":"3:15 pm",
+   "working-hours":"5 hours"
+  
+ },
+ {
+   "Id": 1,
+   "Name":"Vishav Singh",
+   "Designation":"Software Developer",
+   "Experience": "1 year",
+   "Day" :"Thrusday",
+   "In-time" : "----",
+   "Out-time":"----",
+   "working-hours":"Absent"
+  
+ },
+ {
+   "Id": 1,
+   "Name":"Vishav Singh",
+   "Designation":"Software Developer",
+   "Experience": "1 year",
+   "Day" :"Friday",
+   "In-time" : "10:30 am",
+   "Out-time":"8:30 pm",
+   "working-hours":"10 hours"
+  
+ },
+ {
+   "Id": 1,
+   "Name":"Vishav Singh",
+   "Designation":"Software Developer",
+   "Experience": "1 year",
+   "Day" :"Saturday",
+   "In-time" : " ---",
+   "Out-time":" ---",
+   "working-hours":"Holiday"
+  
+ },
+ {
+   "Id": 1,
+   "Name":"Vishav Singh",
+   "Designation":"Software Developer",
+   "Experience": "1 year",
+   "Day" :"Sunday",
+   "In-time" : " ---",
+   "Out-time":" ---",
+   "working-hours":"Holiday"
+  
+ }
 ]
 } 

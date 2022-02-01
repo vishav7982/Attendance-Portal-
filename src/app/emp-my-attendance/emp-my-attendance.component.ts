@@ -17,19 +17,19 @@ export class EmpMyAttendanceComponent implements OnInit {
     {headerName:"Working-hours" ,field : 'working-hours',cellClass: "grid-cell-centered"}
     
 ];
-  data = pkg.data; 
-  AttendanceData: Array<{ [key: string]: string | number | object }> = this.data;
-  rowData = this.AttendanceData;
-  
+  public data = pkg.week1; 
+  public AttendanceData: Array<{ [key: string]: string | number | object }> = this.data;
+  public rowData = this.AttendanceData;
+  public week ="week1";
   ///bar chart declarations
   chartData = [
     {
       data: [9,9,9.25,9,10.5,0,0],
-      label: 'In-time'
+      label: 'In-time(AM)'
     },
     {
-      data: [5.5, 6, 6.25, 6.5,8.5 ,0,0],
-      label: 'Out-time'
+      data: [5.5, 6, 6.25,6.5,8.5,0,0],
+      label: 'Out-time(PM)'
     }
   ];
   chartLabels = [
@@ -45,7 +45,70 @@ export class EmpMyAttendanceComponent implements OnInit {
     responsive: true
   };
   constructor() { }
-  
+   week1()
+  {
+     this.data = pkg.week1;
+     this.rowData =this.data;
+     this.week ="week1";
+     this.chartData = [
+      {
+        data: [9,9,9.25,9,10.5,0,0],
+        label: 'In-time(AM)'
+      },
+      {
+        data: [5.5, 6, 6.25,6.5,8.5,0,0],
+        label: 'Out-time(PM)'
+      }
+    ];
+  }
+  week2()
+  {
+    this.data = pkg.week2;
+    this.rowData =this.data;
+    this.week = "week2";
+    this.chartData = [
+      {
+        data: [10,0,8.25,0,10.5,0,0],
+        label: 'In-time(AM)'
+      },
+      {
+        data: [6.5,0,6.25,0,8.5,0,0],
+        label: 'Out-time(PM)'
+      }
+    ];
+  }
+  week3()
+  {
+    this.data = pkg.week3;
+     this.rowData =this.data;
+     this.week = "week3";
+     this.chartData = [
+      {
+        data: [9,9,9.25,9,0,0,0],
+        label: 'In-time(AM)'
+      },
+      {
+        data: [7.5,6,7.25,10.5,0,0,0],
+        label: 'Out-time(PM)'
+      }
+    ];
+  }
+  week4()
+  {
+    this.data = pkg.week4;
+     this.rowData =this.data;
+     this.week = "week4";
+     this.chartData = [
+      {
+        data: [9,10,10.25,0,10.5,0,0],
+        label: 'In-time(AM)'
+      },
+      {
+        data: [6.5,6,3.25,0,8.5,0,0],
+        label: 'Out-time(PM)'
+      }
+    ];
+  }
   ngOnInit(): void {
   }
 
